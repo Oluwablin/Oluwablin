@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 😊 I'm very experienced, comfortable and vast in PHP & Laravel 
 - 🌱 I’m currently learning NodeJS and Python
-- 💞️ I’m looking to collaborate on Software Development and writing APIs using PHP, Laravel, AJAX, JQuery and relational databases like MySQL, Microsoft SQL Server, MySQL, PostgreSQL etc
+- 💞️ I’m looking to collaborate on Software Development and writing APIs using PHP, Laravel, AJAX, CakePHP, JQuery and relational databases like MySQL, Microsoft SQL Server, PostgreSQL etc
 - 📫 How to reach me ... mail- oyelekeseun@outlook.com
 
 <!---
